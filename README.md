@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/14af73cc-8d4b-405b-91e1-5720663c0f0c.svg)](https://wakatime.com/@14af73cc-8d4b-405b-91e1-5720663c0f0c)
+
 <!--
 **uhr/uhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
